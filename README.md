@@ -1,2 +1,15 @@
-# HackerRank-Problem-Solving
-Practice solutions for HackerRank coding challenges, including Python, Algorithms, and Data Structures.
+# HackerRank Problem Solving
+
+This repository contains my HackerRank solutions written in Python.
+
+## Domains
+
+- Python
+- Data Structures
+- Algorithms
+
+Current Progress
+
+✔ Python
+✔ Problem Solving
+✔ Data Structures
